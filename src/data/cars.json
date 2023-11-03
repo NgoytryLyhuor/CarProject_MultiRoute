@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "name": "Supra MK4",
+        "price": 100000,
+        "year": 2012,
+        "img": "https://images.khmer24.co/23-03-02/867390-supra-mk4-1677747353-76106539-b.jpg",
+        "contact":{
+            "dealer": "SoKha",
+            "number": "111-111-111"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Nissan GTR",
+        "price": 117000,
+        "year": 2022,
+        "img": "https://images.khmer24.co/23-07-31/nissan-gtr-2013-upgrade-to-2022--145192169080542375967252-b.jpg",
+        "contact":{
+            "dealer": "Sokna",
+            "number": "222-222-222"
+        }
+    },
+    {
+        "id": 3,
+        "name": "BMW 428i upM4",
+        "price": 38000,
+        "year": 2014 ,
+        "img": "https://images.khmer24.co/23-10-10/bmw-428i-upm4-2014-full-option-679803169693394931563576-c.jpg",
+        "contact":{
+            "dealer": "Rong",
+            "number": "333-333-333"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Audi r8",
+        "price": 89999,
+        "year": 2009 ,
+        "img": "https://images.khmer24.co/23-10-04/audi-r8-2009-137279169635342539316852-b.jpg",
+        "contact":{
+            "dealer": "Kanha",
+            "number": "444-444-444"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Lamborghini Aventador",
+        "price": 33330,
+        "year": 2014,
+        "img": "https://images.khmer24.co/23-10-19/lamborghini-adventador-314368169769821921741489-b.jpg",
+        "contact":{
+            "dealer": "Meta",
+            "number": "555-555-555"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Lamborghini Urus",
+        "price": 429000,
+        "year": 2021 ,
+        "img": "https://images.khmer24.co/23-10-19/lamborghini-urus-2021-tax-paper--716898169769596995844295-e.jpg",
+        "contact":{
+            "dealer": "TheaRoth",
+            "number": "666-666-666"
+        }
+    }
+
+]
